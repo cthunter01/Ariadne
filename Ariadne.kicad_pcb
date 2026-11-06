@@ -87,7 +87,6 @@
 			(dielectric_constraints no)
 		)
 		(pad_to_mask_clearance 0)
-		(solder_mask_min_width 0.1)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting
 			(front yes)
@@ -196,6 +195,45 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "39d9f9de-2b3f-4201-990e-c62f1f1f9378")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a4c8e92-6ebe-4068-ba2a-c7bc091a4348")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1525"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8b79374-8f2a-4f91-9dfb-26cf1e31bf15")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a4e80b8-6937-4f85-8a85-120c7ee9b507")
 			(effects
 				(font
 					(size 1 1)
@@ -363,6 +401,45 @@
 				)
 			)
 		)
+		(property "MPN" "CL05A106MP5NUNC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0417f748-83ca-4f99-a512-f73d93d2a86e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C315248"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35898ff2-0f48-4bda-ba2d-ee7ac87f55df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64eb105a-6ef9-4da3-acc3-4c9fcd7212f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6de42a56-57eb-4abe-aa6b-c7a3d555bceb")
 		(sheetname "/")
@@ -508,6 +585,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BLM18PG121SN1D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "512ed2bf-122f-4d36-a506-dab67c5b8027")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C14709"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39e290df-f1d1-42ad-8c49-799057b96186")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Murata Electronics"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "450f452b-2bae-40e7-a607-5f2f2afbda9d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -828,6 +944,45 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGF1001TCE"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6716d5aa-438b-414a-b240-80d13cf26303")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C11702"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6febbed4-2c7b-4cf4-ac2e-203db1010e4e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4416f72-3641-45dd-a767-8fa7f066476f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/80240de3-50cc-49f0-9725-6414fbcfba33")
 		(sheetname "/")
@@ -982,6 +1137,45 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "bce90844-3826-4d9c-9e86-c93232946b5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "USBLC6-2SC6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45c07d45-240c-4462-872e-e43744043e17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7519"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bdc6f684-5aca-42cb-b346-d25688ff59b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "STMicroelectronics"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb035ad5-90b9-47ee-a9e8-645a075f22c1")
 			(effects
 				(font
 					(size 1 1)
@@ -1352,6 +1546,45 @@
 				)
 			)
 		)
+		(property "MPN" "CL05A105KA5NQNC"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7410e99a-0849-4cce-845f-02fee4d781b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "909c7646-0977-4770-b7b9-a24e64749b78")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a716120-89e1-46a1-a435-2969aaa8196b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8e6b75e9-929e-40e1-b46b-9e316e8bbd5f")
 		(sheetname "/")
@@ -1506,6 +1739,45 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "ec9f0ff4-c91b-408d-8573-1f22c2bc4baa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66305136-4d87-455e-8742-eecb849f7a3d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1525"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c6fd60f-b431-4c1f-948b-21cc9d3ffb61")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03a3bb92-55b9-438d-8770-dcba5a687988")
 			(effects
 				(font
 					(size 1 1)
@@ -1712,9 +1984,43 @@
 				)
 			)
 		)
+		(property "MPN" "12402012E212A"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "302253a1-902e-4749-b562-7d918eacb743")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5150972"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f41ff9c-9676-4f33-95a0-8ba018dd73f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/353bd6d6-ca96-4a78-9b85-4c8d9b936531")
 		(sheetname "/")
 		(sheetfile "Ariadne.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "A5" "A6" "A7" "A8" "A4_B9" "B4_A9" "B8" "B7" "B6" "B5" "SH1" "SH2"
+					"SH3" "SH4" "A1_B12" "B1_A12"
+				)
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2105,6 +2411,45 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ae1c922-2daf-4651-ae58-694f8c19a042")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1525"
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ffeed807-5995-43b8-91e0-ee9014b53a85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0cf0c762-eb97-4346-9879-30c314b9e13e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/061fd1f3-5d19-4cf2-a6f2-cea73aaf11ea")
 		(sheetname "/")
@@ -2218,7 +2563,7 @@
 				)
 			)
 		)
-		(property "Value" "SWT0110-020010SSA_REVA"
+		(property "Value" "TS-1088R-02026"
 			(at 0.025 2 90)
 			(layer "F.SilkS")
 			(uuid "ec0d0bb6-22ca-47b3-a357-310820d2f5f5")
@@ -2316,7 +2661,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "Global Connector Technology"
+		(property "MANUFACTURER" "XUNPU"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2335,6 +2680,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8bd1492e-29d5-4d3a-818b-e56a1ea41f57")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TS-1088R-02026"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0ce9bd8f-4415-4450-8bc7-278696d8ce0f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C455280"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0923717-bfab-49c5-9f92-095add48cfd5")
 			(effects
 				(font
 					(size 1 1)
@@ -2563,7 +2934,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "510"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2602,6 +2973,45 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "59ac5a3c-5f2a-4dd2-ac93-077a83acabb0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "0402WGF5100TCE"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec90b182-7f57-4caa-bfbb-3dad0e326e86")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25123"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b59279e-58b0-430e-871c-a9b26cdfe514")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1eb74baf-7810-4620-b48e-028f48e833c2")
 			(effects
 				(font
 					(size 1 1)
@@ -2769,6 +3179,45 @@
 				)
 			)
 		)
+		(property "MPN" "CL05A475MO5NUNC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "238d9480-3b91-40cd-b33a-7cf30921609f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C318563"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc6c72e9-b49a-4a4c-b63d-e5db9f7e2660")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "226553f1-5a1c-485f-b8d9-9bc39f75c7f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/e85916cc-15ba-47d3-b7bc-c71e1157f2fa")
 		(sheetname "/")
@@ -2882,7 +3331,7 @@
 				)
 			)
 		)
-		(property "Value" "STM32G473CCT3"
+		(property "Value" "STM32G473CCT6"
 			(at -17.988332 -3.896445 45)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2914,6 +3363,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STM32G473CCT6"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d7246e4-553e-4cb1-9527-d098565a1b90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C730112"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9eeaf2f-31bf-42c8-b98f-31abaa9336b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "STMicroelectronics"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7cfbf981-e18a-4f2e-8ea4-086be0c7b4bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3852,6 +4340,45 @@
 				)
 			)
 		)
+		(property "MPN" "CL10A106KP8NNNC"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d54aeed0-fcd7-4060-aee7-4fc9e4fdfaad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C19702"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "390f8f5b-206a-4a1d-8ad1-1ecb37bbb58b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ece7c0a0-ab08-4c41-a376-66fb4cf7f26e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/52cf41aa-a89c-4e1a-b779-3f0138a2ad71")
 		(sheetname "/")
@@ -3965,7 +4492,7 @@
 				)
 			)
 		)
-		(property "Value" "47"
+		(property "Value" "49.9"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4004,6 +4531,45 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "348efe06-ec1e-4b28-b356-d087155a9b15")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "0402WGF499JTCE"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7627794-2a7a-4ad9-8e2c-3e5b62de8f3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25120"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "854d7670-b89c-455f-9504-f35f394ed6b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea806cf5-fbdc-4f48-a593-2c4f29d25003")
 			(effects
 				(font
 					(size 1 1)
@@ -4160,6 +4726,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "Q13FC13500004"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a23d6d4a-c815-40f9-99c4-b9818b4bc35a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C32346"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b29e514d-b75c-4006-bd0e-0e0ecb8949be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Epson Seiko"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "055c29e1-fa16-43c3-af45-702ac3de204f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4381,6 +4986,45 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGF1003TCE"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "61d17098-7472-4d04-9655-14839f3fde55")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25741"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64d15af6-9106-412e-89f6-dd53bf6f3c57")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6727c69-6976-4a68-b912-4a3c69981dd3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fbb5f373-0fde-4f74-b6cb-88bd6dc49840")
 		(sheetname "/")
@@ -4496,7 +5140,7 @@
 				)
 			)
 		)
-		(property "Value" "47"
+		(property "Value" "49.9"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4535,6 +5179,45 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "8ddfdeb1-df83-4323-8dcf-5fe925bbacc5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "0402WGF499JTCE"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7c6f703-f4c6-4ca3-bac1-59b84982c7f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25120"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea4e6d52-a512-48ef-b2a4-8b55f931c68b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22ac9ada-688e-493b-be15-51655fa1bdc3")
 			(effects
 				(font
 					(size 1 1)
@@ -4703,6 +5386,45 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "811e7d45-a63f-4ad5-9a81-07eb8d289a99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1525"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aafe2420-ebca-463d-b527-1f43aa423980")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ddabf9eb-5375-45b9-bcf8-d5a07d6cac80")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/bc839729-f205-41da-beb2-dcd05a82ee22")
 		(sheetname "/")
@@ -4864,6 +5586,45 @@
 				)
 			)
 		)
+		(property "MPN" "CL05A105KA5NQNC"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db232950-946b-4aff-a610-6baf2f611813")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47f4169c-a815-4ca6-9b34-2e07ea3328fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f8446b3-c3f8-457c-8e26-7cbbd53bf830")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d91ed37f-cb2e-4cf7-b156-779f41b348df")
 		(sheetname "/")
@@ -4979,7 +5740,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "510"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5018,6 +5779,45 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "84325359-ad93-482f-8695-992b7c2786aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "0402WGF5100TCE"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a7fa75b-9e7c-43e8-8801-a1a8654e627d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25123"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98f1fa1e-14af-4f87-8e15-35def956c5dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f9140f3-ff89-460f-ad18-af9d6ff2d687")
 			(effects
 				(font
 					(size 1 1)
@@ -5179,6 +5979,45 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a903fc5e-42e4-4133-9948-a176d40cc3db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TLV75733PDBVR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "057c33bf-e0a9-4732-a791-9b74ce8c0123")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C485517"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5231032-3387-472a-8e01-566ee26c36d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92270e50-068f-4844-824b-222b3248317c")
 			(effects
 				(font
 					(size 1 1)
@@ -5589,6 +6428,45 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de2a7ec2-b977-4519-b6f3-1923c0999c76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1525"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47145fed-42d8-4c2a-9e90-0907545f8b8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3fc29f2a-e162-4b4f-9a8c-bbaf13ed7720")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cec64463-413c-40c0-8100-5764267f9c0c")
 		(sheetname "/")
@@ -5742,6 +6620,45 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "12a874ee-b390-49d6-ac45-8dd2772fa106")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "SiT8008AI-81-33E-8.000000"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "004b8a46-7fc9-48b4-b94a-1eb19c5ddab2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C825363"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4aaa5e00-54f3-4e04-a3bb-6bec84c0092e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "SiTime"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ef396a9-d473-4d2a-b882-32ce87ba4f65")
 			(effects
 				(font
 					(size 1 1)
@@ -5983,6 +6900,45 @@
 				)
 			)
 		)
+		(property "MPN" "0402CG180J500NT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10b1f165-9ed5-4962-b55f-f170098dbd12")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1549"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9cdffcfc-873d-4226-9a32-7b65f088984b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9cb3cfc-2cf9-49e6-806f-64ac5f5e5a2a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/e70a1271-671e-4a56-9e77-d7c8771cad5b")
 		(sheetname "/")
@@ -6096,7 +7052,7 @@
 				)
 			)
 		)
-		(property "Value" "SWT0110-020010SSA_REVA"
+		(property "Value" "TS-1088R-02026"
 			(at -0.25 2.25 90)
 			(layer "F.SilkS")
 			(uuid "67600964-98a4-4b0c-8a56-7967b117aa65")
@@ -6194,7 +7150,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "Global Connector Technology"
+		(property "MANUFACTURER" "XUNPU"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6213,6 +7169,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d4a24f53-05c7-40f4-80d9-94ffab8e4806")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TS-1088R-02026"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0aec7fe9-0284-4aaf-a6ca-a31fff043f26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C455280"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "945ea4af-8f0a-4097-8da9-c93c8907e89a")
 			(effects
 				(font
 					(size 1 1)
@@ -6487,6 +7469,45 @@
 				)
 			)
 		)
+		(property "MPN" "0402CG180J500NT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "231d842f-a099-4e96-a848-308433613f61")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1549"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53ec12ea-b78e-47e2-bfc6-034dc7669ecf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "398111a0-aa9f-428a-877c-0efa54f156c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/13c62a1c-b37d-4f8d-8cf7-5ec00f64ab76")
 		(sheetname "/")
@@ -6661,6 +7682,45 @@
 				)
 			)
 		)
+		(property "MPN" "MHT136CRCT"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed428305-eebb-4d85-9ce3-35bfe4d3cc2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C397045"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c04cd6db-2e99-4a0e-b62b-a1b86df6faad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "MEIHUA"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa6cb049-2d43-4e3a-b824-0ba7850c99ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/585dc236-0e60-4712-a078-8acac6b3db77")
 		(sheetname "/")
@@ -6787,7 +7847,7 @@
 				)
 			)
 		)
-		(property "Value" "SWT0110-020010SSA_REVA"
+		(property "Value" "TS-1088R-02026"
 			(at -0.25 -2.25 90)
 			(layer "F.SilkS")
 			(uuid "aac17635-377a-4c53-8351-15b9157df819")
@@ -6885,7 +7945,7 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "Global Connector Technology"
+		(property "MANUFACTURER" "XUNPU"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6904,6 +7964,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "51fcd422-38eb-4379-8b6d-eb7423ccd36d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TS-1088R-02026"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14c70764-3a10-4b8d-abae-61d0792ea0e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C455280"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45b60549-1158-4094-8f47-14de4bb0b733")
 			(effects
 				(font
 					(size 1 1)
@@ -7178,6 +8264,45 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ba33840-5ef1-4526-bf52-3a58f845784f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1525"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b23247c-f957-46cb-a960-36e1a41c2cbf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "997364c2-184e-45a7-adef-a2610eea20ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bf87d04-4fd1-43d6-be21-88c7a3ecb7d5")
 		(sheetname "/")
@@ -7339,6 +8464,45 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGF5101TCE"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f51c9d80-e71d-41ef-a1db-112e25a5fd5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25905"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f44707e-8552-4928-9d77-99fb8b87a057")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d57620b-477b-4367-8262-05f6176a066f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/54d9c2fa-da95-410e-b41c-5928f82cf31c")
 		(sheetname "/")
@@ -7493,6 +8657,45 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "63ee9931-132c-41d5-b7b2-18909cda3297")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "0402WGF5101TCE"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d85fd45-ce52-4e39-946c-b8f26656a193")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25905"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba13fe2e-177c-4d94-a05b-03c0568fabf4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2e838ac9-8bf3-4a6a-ba20-5abc7fe97e88")
 			(effects
 				(font
 					(size 1 1)
@@ -7674,6 +8877,45 @@
 				)
 			)
 		)
+		(property "MPN" "NCD0402B1"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12596dfa-16af-44cd-a827-42b020acb8f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C130724"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e0ae65a-18b2-4d1a-a1a9-21014dee5b84")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Foshan NationStar Optoelectronics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76c8d6ed-2d4c-4f88-9d70-425a9c652d85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2489a1fd-11c3-416c-825a-b304a4d80b2c")
 		(sheetname "/")
@@ -7848,6 +9090,32 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09d2bc93-0e5d-42ec-b0bc-d45e0cde8bf6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01300c77-d8a9-4921-9fbd-317e68a65203")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/24a66141-6486-4844-9bc1-692ec6c2e3e0")
 		(sheetname "/")
@@ -7858,7 +9126,7 @@
 				(pins "1" "2" "3" "4")
 			)
 		)
-		(attr through_hole dnp)
+		(attr through_hole exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0 -1.330001)
@@ -8311,6 +9579,45 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "36a41e32-4d79-4e8a-9330-15e1780a5faf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1525"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9130a99d-ff1c-4e64-ad7e-b6ae7afe073b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "37f68297-f149-45fc-b584-fd8e609a6573")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8f7f2b01-6a26-41c6-a33e-a6959302263f")
 		(sheetname "/")
@@ -8472,6 +9779,45 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGF5101TCE"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5fcb47f-d39b-4200-9138-3e7aed114e39")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25905"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d5ba66c-43f7-41dc-b062-0813d81bb999")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54e8b2be-4ccc-4e66-9db4-a2f5186ed0cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e704ab12-6dca-46cb-9fbb-eb5a0bb16892")
 		(sheetname "/")
@@ -8626,6 +9972,45 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "745b6479-3fda-4951-a5ae-fbac4868a7fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c445c32d-7ad8-4ff0-abc9-5e61989e2eb8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25744"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b000131-38e5-477c-a48d-cbe66c6c70a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01c27e85-f053-40cf-acd3-55f11c0bd23b")
 			(effects
 				(font
 					(size 1 1)
@@ -8799,6 +10184,34 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "76a91ce9-cd53-43ae-8063-f9a855f255ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "646b30b9-eb64-4a90-a1f5-24d02a514a99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/14b8a72e-66b1-4bcb-86a4-fca5ce95e895")
 		(sheetname "/")
@@ -8811,7 +10224,7 @@
 				)
 			)
 		)
-		(attr through_hole dnp)
+		(attr through_hole exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.38 -1.27)
@@ -9247,6 +10660,34 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "02449aed-2ea8-4c03-b237-323e6a28af79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a59e1d7d-0f71-4bf0-b7c3-24da7bef8811")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/df7b4e46-23da-457a-8b95-05f96194de47")
 		(sheetname "/")
@@ -9259,7 +10700,7 @@
 				)
 			)
 		)
-		(attr through_hole dnp)
+		(attr through_hole exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.38 -1.27)

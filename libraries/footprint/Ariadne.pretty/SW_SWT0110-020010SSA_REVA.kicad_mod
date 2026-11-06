@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "SW_SWT0110-020010SSA_REVA"
+	(property "Value" "TS-1088R-02026"
 		(at 12.875 3.35 0)
 		(layer "F.Fab")
 		(uuid "f44c72cf-ec42-4dd1-b5b9-b8f751b2a270")
@@ -25,7 +25,7 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "${KIPRJMOD}/libraries/datasheets/C455280.pdf"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -36,7 +36,7 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "XUNPU TS-1088R-02026 (LCSC C455280), SPST-NO SMD tactile switch, 3.9 x 3.0 mm body, 2.0 mm high, 260 gf. Pads: 1.05 x 2.00 mm, 4.45 mm pitch; adapted from GCT SWT0110 footprint. 3D model is approximate GCT model."
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -161,8 +161,8 @@
 		(uuid "243145bb-2d17-48d9-a82a-e34b42c327c1")
 	)
 	(fp_line
-		(start -1.95 -1.465)
-		(end -1.95 1.465)
+		(start -1.95 -1.5)
+		(end -1.95 1.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -171,8 +171,8 @@
 		(uuid "266a5b47-a231-493a-a63c-1cfa69776f0b")
 	)
 	(fp_line
-		(start -1.95 1.465)
-		(end 1.95 1.465)
+		(start -1.95 1.5)
+		(end 1.95 1.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -181,8 +181,8 @@
 		(uuid "ce2ff8e9-5565-4f75-8448-ef59a0f6b18a")
 	)
 	(fp_line
-		(start 1.95 -1.465)
-		(end -1.95 -1.465)
+		(start 1.95 -1.5)
+		(end -1.95 -1.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -191,8 +191,8 @@
 		(uuid "a4d3934d-93de-4332-bfb0-82f4dd54d0c0")
 	)
 	(fp_line
-		(start 1.95 1.465)
-		(end 1.95 -1.465)
+		(start 1.95 1.5)
+		(end 1.95 -1.5)
 		(stroke
 			(width 0.1)
 			(type solid)
